@@ -10,10 +10,7 @@
 
     <style type="text/css">
       body { 
-         background: url('img/img.gif') no-repeat center center fixed; 
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
+         background: url('img/img.gif') no-repeat center center fixed;
         background-size: cover;
        width: 100%
        height: auto;
