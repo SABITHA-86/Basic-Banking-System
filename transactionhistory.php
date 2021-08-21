@@ -40,7 +40,7 @@
                 <th class="text-center">SENDER</th>
                 <th class="text-center">RECEIVER</th>
                 <th class="text-center">AMOUNT</th>
-                <th class="text-center">DATE & AMOUNT</th></h4>
+                <th class="text-center">DATE & TIME</th></h4>
             </tr>
         </thead>
         <tbody>
