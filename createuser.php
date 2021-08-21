@@ -50,9 +50,6 @@
         </div>
       </div>
       <div class="screen-body">
-        <div class="screen-body-item left">
-          <img class="img-fluid" src="img/user3.jpg" style="border: none; border-radius: 50%;">
-        </div>
         <div class="screen-body-item">
           <form class="app-form" method="post">
             <div class="app-form-group">
