@@ -1,10 +1,10 @@
 
-# Basic-Bannking-System
+# Basic-Banking-System
   
 A Web Application used to transfer money 
 
 # Tech Stack used - 
-Front-end : HTML, CSS, Bootstrap & Javascript 
+Front-end : HTML, CSS, Javascript 
 Back-end : PHP 
 Database : MySQL   
 
